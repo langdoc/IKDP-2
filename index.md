@@ -8,4 +8,4 @@ We will be one of the very first projects working in the paradigm of endangered 
 
 The project team consists of Rogier Blokland, Michael Rießler and Niko Partanen. The work is funded by Kone Foundation, and it is continuation to the work done in Izhva Komi Documentation Project during 2014-2016.
 
-![](http://www.koneensaatio.fi/wp-content/uploads/Black-KoneFoundation-logo1.jpg =250x)
+<img src="http://www.koneensaatio.fi/wp-content/uploads/Black-KoneFoundation-logo1.jpg" alt="Drawing" style="width: 200px;"/>
