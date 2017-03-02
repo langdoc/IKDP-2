@@ -8,6 +8,6 @@ The project aims to make a significant contribution to the description of Komi-Z
 
 We will be one of the very first projects working in the paradigm of endangered language documentation while systematically applying methods from natural language processing for automated corpus annotation. This is against the mainstream, which prefers manual or semi-manual work. The two component parts of our project will also further best practices with regard to open data and reproducibility in linguistic research. 
 
-The project team consists of Rogier Blokland, Michael Rießler and Niko Partanen. The work is funded by Kone Foundation, and it is continuation to the work done in Izhva Komi Documentation Project during 2014-2016.
+The project team consists of Rogier Blokland, Michael Rießler and Niko Partanen. The work is funded by [Kone Foundation](http://www.koneensaatio.fi), and it is continuation to the work done in Izhva Komi Documentation Project during 2014-2016. The results of the last project can be seen, for example, on [videocorpora.ru](http://videocorpora.ru) website.
 
 ![](media/Black-KoneFoundation-logo1-small.jpg)
