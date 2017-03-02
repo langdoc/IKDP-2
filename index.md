@@ -1,4 +1,6 @@
-## Language Documentation meets Language Technology: The Next Step in the Description of Komi
+## Language Documentation meets Language Technology:
+
+### The Next Step in the Description of Komi
 
 The project team consists of Rogier Blokland, Michael Rießler and Niko Partanen.
 
