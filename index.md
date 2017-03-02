@@ -1,9 +1,3 @@
-## Language Documentation meets Language Technology:
-
-### The Next Step in the Description of Komi
-
-<br/>
-
 The project aims to make a significant contribution to the description of Komi-Zyrian by 1) producing a full-fledged grammar parser building on previous work in the framework of Finite State Transducer Technology for morphological analysis and enriched with Constraint Grammar rules for syntactic disambiguation, and 2) creating a descriptive syntax of Komi written from a typological perspective and based on both our own corpus (created as a result of the project “Building an annotated digital corpus for future research on Komi speech communities in northernmost Russia”, which Kone Foundation recently funded) as well as the large corpus of literary Komi created in the Komi Republic, and annotated with the help of the above-mentioned parser. 
 
 ![Kelćijur village, 15.3.2014, Rogier Blokland](media/2014_03_15_23-030.jpg)
