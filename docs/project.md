@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IKDP-2
-subtitle: More project info
+subtitle: The Next Step in the Description of Komi
 ---
 
 Our aim is to build on the Iźva-Komi corpus created in our current project financed by the Kone Foundation and to further advance the grammatical description of Komi. Special focus will be paid to open research practices. The project will consist of two parts, which together aim at the grammatical description of Komi, but from different directions. The first part of the project will result in a formalized morphosyntactic description to be implemented in a syntactic parser. The second part will be a descriptive and comparative syntax of Komi.
