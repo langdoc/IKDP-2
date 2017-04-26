@@ -17,12 +17,14 @@ Responsibilities:
 * Niko - Infrastructure
 
 ## Syntactic description in GitHub
-1. Short intro to GitHub and Markdown for Rogier
-2. Rogier starts drafting the syntactic description, 3 planned stages:
+* Short intro to GitHub and Markdown for Rogier
+* Rogier starts drafting the syntactic description, 3 planned stages:
+
   1. [Private draft](https://github.com/langdoc/kpv-syntax)
   2. Public draft (not created yet)
   3. Publication (planned for January 2020)
-3. Niko prepares an example md-file (incl. linguistic examples, references, indices, etc.)
+  
+* Niko prepares an example md-file (incl. linguistic examples, references, indices, etc.)
   
 ## Ideas
 We check the possibility to arrange a working meeting with Micha, Niko, Rogier in Paris before the summer.
