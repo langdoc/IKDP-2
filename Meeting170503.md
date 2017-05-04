@@ -17,7 +17,7 @@ Responsibilities (refined):
 * Niko - Infrastructure
   * Micha contributes
   
-Micha informed about progress in the [HZSK project](https://github.com/langdoc/IKDP-2/).
+Micha informed about progress in the [HZSK project](https://github.com/langdoc/HZSK).
 
 Niko informed about his NLP work with LaTTiCe.
   
