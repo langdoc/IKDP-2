@@ -20,6 +20,8 @@ Responsibilities (refined):
 Micha informed about progress in the [HZSK project](https://github.com/langdoc/HZSK).
 
 Niko informed about his NLP work with LaTTiCe.
+
+Rogier learned how to use "issues" in GitHub.
   
 ## Syntactic description in GitHub
 * Rogier started drafting the syntactic description
