@@ -4,3 +4,4 @@ Project website and documentation for the continuation project of [IKDP](https:/
 ## Meetings
 * [[26.04.2017](Meeting170426.md)]
 * [[03.05.2017](Meeting170503.md)]
+* [[24.05.2017](Meeting170524.md)]
