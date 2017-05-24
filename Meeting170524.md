@@ -1,3 +1,11 @@
+# Meeting 24.5.2017
+
+* Skype
+* 12:10–12:25
+* Micha, Niko, Rogier
+
+## General
+
 - In Syktyvkar people are adding more text into interface
 - Niko: write to Marina about coming to Syktyvkar
 - Some control over money use is needed
