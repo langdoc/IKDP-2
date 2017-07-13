@@ -1,3 +1,10 @@
+# Meeting 05.07.2017
+
+- Skype
+- 12:10-13:00
+- Niko, Micha
+
+## General
 
 - CG rule examples are now in GitHub issue, this can be discussed forward later
 - Niko is testing tools developed in LIMSI
