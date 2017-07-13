@@ -6,3 +6,6 @@ Project website and documentation for the continuation project of [IKDP](https:/
 * [[03.05.2017](Meeting170503.md)]
 * [[24.05.2017](Meeting170524.md)]
 * [[14.06.2017](Meeting170524.md)]
+* [[28.06.2017](Meeting170628.md)]
+* [[05.07.2017](Meeting170705.md)]
+* [[12.07.2017](Meeting170714.md)]
