@@ -12,3 +12,5 @@ Project website and documentation for the continuation project of [IKDP](https:/
 * [[05.10.2017](Meeting171005.md)]
 * [[11.10.2017](Meeting171011.md)]
 * [[25.10.2017](Meeting171025.md)]
+* [[08.11.2017](Meeting171108.md)]
+* [[13.12.2017](Meeting171213.md)]
