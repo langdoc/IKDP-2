@@ -1,6 +1,6 @@
 # Meeting 18.2.2018
 * Skype
-* 13:00–
+* 13:00–13:55
 * Micha, Rogier, Niko
 
 ## General
