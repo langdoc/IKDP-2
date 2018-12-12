@@ -1,0 +1,13 @@
+- Micha writes book 
+- Tell to Marina that more work is coming next year
+- Writing a grammar
+- Iźva dialect article
+- Elatiivin käyttö rakenteissa, elatiivi ~ eggressiivi
+- IWCLUL is coming
+- Winter school 4-10.02.
+- Co-operation with local institutions should be emphasized
+- Use of old resources
+- Research on Komi bit unusual in Language Documentation scene
+- Good article topic to compare old and new materials
+- Using FST and CG in research allows quite good access to corpora
+- by:n käyttö, mennyt aika
