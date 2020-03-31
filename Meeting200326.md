@@ -1,4 +1,4 @@
-# Meeting 26.3.2020
+# Meeting XX.3.2020
 
 ## Topics
 
@@ -12,4 +12,4 @@
 - Micha could also apply at the same time for us to have this [Allas](https://www.csc.fi/en/-/allas-tuo-nykyaikaisen-datanhallinnan-tutkijoiden-kayttoon) tool from CSC
     - The logic would be that our multimedia is in IDA storage, but CSC recommends now Allas for files that change often
     - I'm also collaborating bit with Oulu people, and they are setting up their system now same way
- 
+- Participation to DoReCo: Need to decide which files to send over. Niko has a list of potentially good files (mainly based to having one speaker from all different regions, maybe two from Ižma as it is so heavily populated).
