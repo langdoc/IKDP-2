@@ -13,3 +13,16 @@
     - The logic would be that our multimedia is in IDA storage, but CSC recommends now Allas for files that change often
     - I'm also collaborating bit with Oulu people, and they are setting up their system now same way
 - Participation to DoReCo: Need to decide which files to send over. Niko has a list of potentially good files (mainly based to having one speaker from all different regions, maybe two from Ižma as it is so heavily populated).
+- Possible DoReCo filelist:
+    - kpv_izva20140325-2-a – older male speaker, from village, but worked at tundra
+    - kpv_izva20140330-1-b – young female speaker, from Ižma
+    - kpv_izva20150402-7-b – older female speaker, grew up and lived at tundra
+    - kpv_izva20150411-1-b – older female speaker from Nenetsia, bilingual in Komi and Nenets
+    - kpv_izva20150703-01-b – young female speaker from Tarko-Sale
+    - kpv_izva20150703-03-b – young male speaker from Kola Peninsula
+    - kpv_izva20150703-05-b – older female speaker from Siberia
+    - kpv_izva20150705-02-b – young male speaker from Ižma
+    - kpv_izva20150705-03-b - middle age male speaker from Ižma
+    - kpv_izva20150707-01-b - middle age male speaker from Upper Ižma
+    - kpv_izva20160619-03 - older male from speaker from Kola Peninsula
+    - kpv_izva20160620-06 - older female speaker from Kola Peninsula
