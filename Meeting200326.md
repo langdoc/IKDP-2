@@ -2,9 +2,11 @@
 
 ## Topics
 
+- Niko needs for pension purposes a paper from Rogier that mentions working in the project after 1.6.2020 (same as last year)
 - Niko has set up the FST's and CG to work so that we can get both Komi and Russian analysis, and just take the Russian when there is no Komi reading
 - Both Komi and Russian analysis go now through Komi CG
   - This operation reduces the number of unknown forms from 15% to 10%
+- Some Saami part needs to be checked
 - Quite good portion of the dialectal forms are now coming out correctly, and some can be solved with regex-based rules (although those aren't so pretty)
 - There are some questions that go way beyond Niko's FST skills, i.e. вӧӧ : вӧлӧн, кайны : каа, especially Iźva vowel lenghtening related changes are complex that fixing them is far from trivial. In this point we can also just say that there is a subset of problems we will solve in later time.
 - We have run out of CSC's billing units (this is normal and expected), so Micha as CSC's project head person should apply for more billing units, this should be just one click away
