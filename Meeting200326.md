@@ -7,6 +7,7 @@
 - Both Komi and Russian analysis go now through Komi CG
   - This operation reduces the number of unknown forms from 15% to 10%
 - Some Saami part needs to be checked
+    - Micha will do this.
 - Quite good portion of the dialectal forms are now coming out correctly, and some can be solved with regex-based rules (although those aren't so pretty)
 - There are some questions that go way beyond Niko's FST skills, i.e. вӧӧ : вӧлӧн, кайны : каа, especially Iźva vowel lenghtening related changes are complex that fixing them is far from trivial. In this point we can also just say that there is a subset of problems we will solve in later time.
     - Micha will set up an experimental folder and write these twolc rules.
