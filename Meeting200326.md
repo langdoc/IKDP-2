@@ -28,3 +28,4 @@
     - kpv_izva20150707-01-b - middle age male speaker from Upper Ižma
     - kpv_izva20160619-03 - older male from speaker from Kola Peninsula
     - kpv_izva20160620-06 - older female speaker from Kola Peninsula
+  - SVN move to GitHub (Micha talked with Sjur) 
