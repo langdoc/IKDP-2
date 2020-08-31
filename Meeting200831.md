@@ -5,7 +5,11 @@ Skype
 
 Aufgaben Projekt, Dissertation, Zeitplan, etc. 
 
-14-tägige Skype-Treffen, Wann?
+Projektpublikationen schicken
+3 Komi-Überblicksartikel schicken
+Komi Grammar Russisch
+
+14-tägige Skype-Treffen, 10EET Frid?
 
 Allgemeiner Arbeitsplan
 - 6 MONATE: Grammatikkapitel zu Koordinatoren, Subordinatoren (gleichzeitig Teil der Diss?)
