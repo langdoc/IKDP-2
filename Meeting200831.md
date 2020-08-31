@@ -26,4 +26,5 @@ Tasks
   - In some cases I would even argue that proofreading as such is not always necessary, since we can also use FST to check which words do not recognize correctly (after automatic transliteration), and fixing those would often go really far already. In fact when the accuracy of OCR is somewhere around 99.99%, then the only real problems are parts where the page is somehow damaged or something has gone wrong in printing or digitalization. Glancing pages through for those parts is also different from normal proofreading, mainly in being faster and less tedious.
   - There is also one handwritten Russian part of translations into Komi transcriptions, and she of course can read handwritten Russian easily, so for a few weeks that would be a really good focused task. Those texts are already translated to Russian, so let's grab them.
   - First collection could be Erkki Itkonen's and Raisa Batalova's materials -- these contain also other dialects than Izhma, is that aproblem?
+
 Alles verstanden!!!
