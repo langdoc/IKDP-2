@@ -28,7 +28,7 @@
 - UPCOMING 6 MONTHS from now 
   - grammar chapter on coordination and subordination
   - this draft (or parts of it) will also be relevant for dissertation
-- LATER
+- LATER, better explanation of our
   - grammaticographic work (together with Niko and Rogier)
   - FST/CG and Tromsø infrastructure (perhaps together with Sjur)
   
