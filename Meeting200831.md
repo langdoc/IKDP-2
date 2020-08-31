@@ -28,3 +28,4 @@ Tasks
   - First collection could be Erkki Itkonen's and Raisa Batalova's materials -- these contain also other dialects than Izhma, is that aproblem?
 
 Alles verstanden!!!
+- Liste
