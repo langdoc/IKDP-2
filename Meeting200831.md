@@ -1,4 +1,4 @@
-# Meeting 31.9.2020
+# Meeting 31.8.2020
 * Skype
 * 10:00–11:30am EET
 * Micha, Zhenya
