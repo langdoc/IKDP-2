@@ -38,7 +38,9 @@ Later there will also be exports that have full current annotations from FST, po
 - ~~Linked files~~
 - PFSX files are currently in Git. They change often even when ELAN file doesn't. It would be good to have a truly working solution for these, meaning all files open always with good preferences.
   - Solutions: leaving them out, keeping them as they are, automatically generating them with Git hooks
-- **Note:**: Git hooks are important to maintain the corpus -- is it possible to get them work on Windows?
+- **Note:**: Git hooks are important to maintain the corpus -- everyone has a Mac so we should set them up for everyone the same way. This is what they do now:
+  - Checking that ELAN files are valid
+  - Formatting ELAN files so that the diffs are pretty and clean
 - There are currently extremely many unused tiers, which probably will never be used. 
   - **Niko proposes** that we remove most of those automatically and leave a subset that is currently in use and that we need. We have the tier types, and it is easy to create the tiers manually or automatically if someone needs them. Our elan-fst script already removes and rewrites the tiers as needed.
 - **Niko also proposes** that all word-tiers are removed because they are useless, create maintenance problems (need to be updated after transcription is edited) and increase file size very much
